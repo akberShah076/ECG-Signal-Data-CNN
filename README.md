@@ -6,8 +6,8 @@ This project implements two models for ECG signal classification: a **Multilayer
 
 ### Key Features
 
-- **H4P2T1**: MLP model with fully connected layers, ReLU activations, and optional softmax.
-- **H4P2T2**: CNN model with residual connections, multiple convolutional layers, average pooling, and normalization layers.
+- **ECG_MLP_Akbar_Shah (2).ipynb**: MLP model with fully connected layers, ReLU activations, and optional softmax.
+- **ECG_CNN_Akbar_Shah (2).ipynb**: CNN model with residual connections, multiple convolutional layers, average pooling, and normalization layers.
 - The models are designed to be robust and achieve a test accuracy of at least **80%** for MLP and **85%** for CNN.
 
 ## Structure
