@@ -98,8 +98,9 @@ python evaluate_model.py --model cnn    # For CNN model
 
 ## Results
 
-- **MLP Model **: Achieved an accuracy of **X%** on the test set.
-- **CNN Model **: Achieved an accuracy of **Y%** on the test set (must be at least 85%).
+**MLP Model**: Achieved an average accuracy of 89.34% on the test set.
+
+**CNN Model**: Achieved an average accuracy of 91.81% on the test set.
 
 
 
